@@ -8,3 +8,6 @@
     gap: 45px;
     margin: 70px 50px 30px 50px;
 }
+.cart-container{
+    background: rgba(255, 153, 0, 0.3);
+}
